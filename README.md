@@ -1,2 +1,2 @@
-# resume.html
+# index.html
 resume form
